@@ -1,0 +1,413 @@
+26-01-2018 09:14:35 1516958075829 BuildInfo[
+                          Build=20171130
+                          BuildNumber=20171130
+                          Revision=feca534
+                          Version=3.9.1
+                          SerialVersion=1
+                          Enterprise=false]
+26-01-2018 09:14:35 1516958075830 SystemProperties[
+                          hazelcast.diagnostics.enabled=true
+                          java.class.path=C:\Users\riaz\git5\jet-demos\ServerMember\target\classes;C:\Users\riaz\.m2\repository\com\hazelcast\hazelcast-all\3.9.1\hazelcast-all-3.9.1.jar
+                          java.class.version=52.0
+                          java.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_131\jre\lib\endorsed
+                          java.ext.dirs=C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+                          java.home=C:\Program Files\Java\jdk1.8.0_131\jre
+                          java.io.tmpdir=C:\Users\riaz\AppData\Local\Temp\
+                          java.library.path=C:\Program Files\Java\jdk1.8.0_131\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Cloud Foundry;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\OpenSSL-Win32\bin;C:\Program Files\Java\jdk1.8.0_131\bin;C:\Program Files (x86)\OpenVPN\bin;C:\Users\riaz\AppData\Local\Microsoft\WindowsApps;C:\Users\riaz\AppData\Roaming\npm;C:\Users\riaz\AppData\Local\atom\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;.
+                          java.runtime.name=Java(TM) SE Runtime Environment
+                          java.runtime.version=1.8.0_131-b11
+                          java.specification.name=Java Platform API Specification
+                          java.specification.vendor=Oracle Corporation
+                          java.specification.version=1.8
+                          java.vendor=Oracle Corporation
+                          java.vendor.url=http://java.oracle.com/
+                          java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+                          java.version=1.8.0_131
+                          java.vm.args=-Dhazelcast.diagnostics.enabled=true -Dfile.encoding=UTF-8 
+                          java.vm.info=mixed mode
+                          java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+                          java.vm.specification.name=Java Virtual Machine Specification
+                          java.vm.specification.vendor=Oracle Corporation
+                          java.vm.specification.version=1.8
+                          java.vm.vendor=Oracle Corporation
+                          java.vm.version=25.131-b11
+                          os.arch=amd64
+                          os.name=Windows 10
+                          os.version=10.0
+                          sun.arch.data.model=64
+                          sun.boot.class.path=C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_131\jre\classes
+                          sun.boot.library.path=C:\Program Files\Java\jdk1.8.0_131\jre\bin
+                          sun.cpu.endian=little
+                          sun.cpu.isalist=amd64
+                          sun.desktop=windows
+                          sun.io.unicode.encoding=UnicodeLittle
+                          sun.java.command=com.rlab.hazelcast.ServerMember.ServerMember
+                          sun.java.launcher=SUN_STANDARD
+                          sun.jnu.encoding=Cp1252
+                          sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+                          sun.os.patch.level=]
+26-01-2018 09:14:35 1516958075830 ConfigProperties[]
+26-01-2018 09:14:35 1516958075830 Metric[classloading.loadedClassesCount=4920]
+26-01-2018 09:14:35 1516958075830 Metric[classloading.totalLoadedClassesCount=4921]
+26-01-2018 09:14:35 1516958075830 Metric[classloading.unloadedClassCount=0]
+26-01-2018 09:14:35 1516958075830 Metric[client.endpoint.count=0]
+26-01-2018 09:14:35 1516958075830 Metric[client.endpoint.totalRegistrations=0]
+26-01-2018 09:14:35 1516958075830 Metric[cluster.clock.clusterTimeDiff=0]
+26-01-2018 09:14:35 1516958075830 Metric[cluster.clock.maxClusterTimeDiff=0]
+26-01-2018 09:14:35 1516958075830 Metric[event.eventQueueSize=0]
+26-01-2018 09:14:35 1516958075830 Metric[event.eventsProcessed=5]
+26-01-2018 09:14:35 1516958075830 Metric[executor.[hz:async].queueSize=0]
+26-01-2018 09:14:35 1516958075830 Metric[executor.[hz:client-query].queueSize=0]
+26-01-2018 09:14:35 1516958075830 Metric[executor.[hz:client].queueSize=0]
+26-01-2018 09:14:35 1516958075830 Metric[executor.[hz:cluster:event].queueSize=0]
+26-01-2018 09:14:35 1516958075830 Metric[executor.[hz:cluster].queueSize=0]
+26-01-2018 09:14:35 1516958075830 Metric[executor.[hz:offloadable].queueSize=0]
+26-01-2018 09:14:35 1516958075830 Metric[executor.[hz:scheduled:cqc:5e93747f-a923-46c9-9df8-575bfd8fb75b].queueSize=0]
+26-01-2018 09:14:35 1516958075830 Metric[executor.[hz:scheduled].queueSize=0]
+26-01-2018 09:14:35 1516958075830 Metric[executor.[hz:system].queueSize=0]
+26-01-2018 09:14:35 1516958075830 Metric[file.partition[user.home].freeSpace=289155543040]
+26-01-2018 09:14:35 1516958075830 Metric[file.partition[user.home].totalSpace=511515291648]
+26-01-2018 09:14:35 1516958075830 Metric[file.partition[user.home].usableSpace=289155543040]
+26-01-2018 09:14:35 1516958075830 Metric[gc.majorCount=0]
+26-01-2018 09:14:35 1516958075830 Metric[gc.majorTime=0]
+26-01-2018 09:14:35 1516958075830 Metric[gc.minorCount=1]
+26-01-2018 09:14:35 1516958075830 Metric[gc.minorTime=3]
+26-01-2018 09:14:35 1516958075830 Metric[gc.unknownCount=0]
+26-01-2018 09:14:35 1516958075830 Metric[gc.unknownTime=0]
+26-01-2018 09:14:35 1516958075830 Metric[operation.callTimeoutCount=0]
+26-01-2018 09:14:35 1516958075830 Metric[operation.completedCount=0]
+26-01-2018 09:14:35 1516958075830 Metric[operation.failedBackups=0]
+26-01-2018 09:14:35 1516958075830 Metric[operation.invocations.backupTimeouts=0]
+26-01-2018 09:14:35 1516958075830 Metric[operation.invocations.normalTimeouts=0]
+26-01-2018 09:14:35 1516958075830 Metric[operation.invocations.pending=0]
+26-01-2018 09:14:35 1516958075830 Metric[operation.invocations.responses[backup]=0]
+26-01-2018 09:14:35 1516958075830 Metric[operation.invocations.responses[error]=0]
+26-01-2018 09:14:35 1516958075830 Metric[operation.invocations.responses[missing]=0]
+26-01-2018 09:14:35 1516958075830 Metric[operation.invocations.responses[normal]=0]
+26-01-2018 09:14:35 1516958075830 Metric[operation.invocations.responses[timeout]=0]
+26-01-2018 09:14:35 1516958075830 Metric[operation.operationTimeoutCount=0]
+26-01-2018 09:14:35 1516958075830 Metric[operation.priorityQueueSize=0]
+26-01-2018 09:14:35 1516958075830 Metric[operation.queueSize=0]
+26-01-2018 09:14:35 1516958075830 Metric[operation.responseQueueSize=0]
+26-01-2018 09:14:35 1516958075830 Metric[operation.retryCount=0]
+26-01-2018 09:14:35 1516958075830 Metric[os.committedVirtualMemorySize=792809472]
+26-01-2018 09:14:35 1516958075830 Metric[os.freePhysicalMemorySize=22885261312]
+26-01-2018 09:14:35 1516958075830 Metric[os.freeSwapSpaceSize=21308059648]
+26-01-2018 09:14:35 1516958075830 Metric[os.processCpuLoad=0.31166225186698154]
+26-01-2018 09:14:35 1516958075830 Metric[os.processCpuTime=5875000000]
+26-01-2018 09:14:35 1516958075830 Metric[os.systemCpuLoad=0.6753449135638299]
+26-01-2018 09:14:35 1516958075830 Metric[os.systemLoadAverage=-100.0]
+26-01-2018 09:14:35 1516958075830 Metric[os.totalPhysicalMemorySize=34246524928]
+26-01-2018 09:14:35 1516958075830 Metric[os.totalSwapSpaceSize=39346798592]
+26-01-2018 09:14:35 1516958075830 Metric[proxy.createdCount=0]
+26-01-2018 09:14:35 1516958075830 Metric[proxy.destroyedCount=0]
+26-01-2018 09:14:35 1516958075830 Metric[runtime.availableProcessors=4]
+26-01-2018 09:14:35 1516958075830 Metric[runtime.freeMemory=360401472]
+26-01-2018 09:14:35 1516958075830 Metric[runtime.maxMemory=7611613184]
+26-01-2018 09:14:35 1516958075830 Metric[runtime.totalMemory=391643136]
+26-01-2018 09:14:35 1516958075830 Metric[runtime.uptime=3936]
+26-01-2018 09:14:35 1516958075830 Metric[runtime.usedMemory=31241664]
+26-01-2018 09:14:35 1516958075830 Metric[tcp.connection.acceptedSocketCount=0]
+26-01-2018 09:14:35 1516958075830 Metric[tcp.connection.activeCount=1]
+26-01-2018 09:14:35 1516958075830 Metric[tcp.connection.clientCount=0]
+26-01-2018 09:14:35 1516958075830 Metric[tcp.connection.count=1]
+26-01-2018 09:14:35 1516958075830 Metric[tcp.connection.textCount=0]
+26-01-2018 09:14:35 1516958075830 Metric[thread.daemonThreadCount=4]
+26-01-2018 09:14:35 1516958075830 Metric[thread.peakThreadCount=38]
+26-01-2018 09:14:35 1516958075830 Metric[thread.threadCount=38]
+26-01-2018 09:14:35 1516958075830 Metric[thread.totalStartedThreadCount=38]
+26-01-2018 09:14:35 1516958075830 Metric[transactions.commitCount=0]
+26-01-2018 09:14:35 1516958075830 Metric[transactions.rollbackCount=0]
+26-01-2018 09:14:35 1516958075830 Metric[transactions.startCount=0]
+26-01-2018 09:14:37 1516958077134 SlowOperations[]
+26-01-2018 09:14:37 1516958077134 HazelcastInstance[
+                          thisAddress=[192.168.0.3]:5702
+                          isRunning=true
+                          isLite=false
+                          joined=false
+                          nodeState=ACTIVE
+                          clusterId=null
+                          clusterSize=1
+                          isMaster=false
+                          masterAddress=[192.168.0.3]:5701
+                          Members[
+                                  [192.168.0.3]:5702]]
+26-01-2018 09:14:37 1516958077136 ClusterVersionChanged[
+                          3.9]
+26-01-2018 09:14:37 1516958077136 Lifecycle[
+                          STARTING]
+26-01-2018 09:14:37 1516958077136 MemberAdded[
+                          member=[192.168.0.3]:5702
+                          Members[
+                                  [192.168.0.3]:5702:this:master]]
+26-01-2018 09:14:37 1516958077136 ConnectionAdded[
+                          Connection[id=1, /192.168.0.3:65061->/192.168.0.3:5701, endpoint=[192.168.0.3]:5701, alive=true, type=MEMBER]
+                          type=MEMBER
+                          isAlive=true]
+26-01-2018 09:14:42 1516958082834 ClusterVersionChanged[
+                          3.9]
+26-01-2018 09:14:42 1516958082834 MemberAdded[
+                          member=[192.168.0.3]:5701
+                          Members[
+                                  [192.168.0.3]:5702:this:master
+                                  [192.168.0.3]:5701]]
+26-01-2018 09:14:44 1516958084837 Lifecycle[
+                          STARTED]
+26-01-2018 09:15:35 1516958135829 Metric[classloading.loadedClassesCount=5763]
+26-01-2018 09:15:35 1516958135829 Metric[classloading.totalLoadedClassesCount=5763]
+26-01-2018 09:15:35 1516958135829 Metric[classloading.unloadedClassCount=0]
+26-01-2018 09:15:35 1516958135829 Metric[client.endpoint.count=2]
+26-01-2018 09:15:35 1516958135829 Metric[client.endpoint.totalRegistrations=2]
+26-01-2018 09:15:35 1516958135829 Metric[cluster.clock.clusterTimeDiff=0]
+26-01-2018 09:15:35 1516958135829 Metric[cluster.clock.maxClusterTimeDiff=-61]
+26-01-2018 09:15:35 1516958135829 Metric[event.eventQueueSize=0]
+26-01-2018 09:15:35 1516958135829 Metric[event.eventsProcessed=18]
+26-01-2018 09:15:35 1516958135829 Metric[executor.[hz:async].queueSize=0]
+26-01-2018 09:15:35 1516958135829 Metric[executor.[hz:client-query].queueSize=0]
+26-01-2018 09:15:35 1516958135829 Metric[executor.[hz:client].queueSize=0]
+26-01-2018 09:15:35 1516958135829 Metric[executor.[hz:cluster:event].queueSize=0]
+26-01-2018 09:15:35 1516958135829 Metric[executor.[hz:cluster].queueSize=0]
+26-01-2018 09:15:35 1516958135829 Metric[executor.[hz:offloadable].queueSize=0]
+26-01-2018 09:15:35 1516958135829 Metric[executor.[hz:scheduled:cqc:5e93747f-a923-46c9-9df8-575bfd8fb75b].queueSize=0]
+26-01-2018 09:15:35 1516958135829 Metric[executor.[hz:scheduled].queueSize=0]
+26-01-2018 09:15:35 1516958135829 Metric[executor.[hz:system].queueSize=0]
+26-01-2018 09:15:35 1516958135829 Metric[file.partition[user.home].freeSpace=289151447040]
+26-01-2018 09:15:35 1516958135829 Metric[file.partition[user.home].totalSpace=511515291648]
+26-01-2018 09:15:35 1516958135829 Metric[file.partition[user.home].usableSpace=289151447040]
+26-01-2018 09:15:35 1516958135829 Metric[gc.majorCount=1]
+26-01-2018 09:15:35 1516958135829 Metric[gc.majorTime=24]
+26-01-2018 09:15:35 1516958135829 Metric[gc.minorCount=2]
+26-01-2018 09:15:35 1516958135829 Metric[gc.minorTime=14]
+26-01-2018 09:15:35 1516958135829 Metric[gc.unknownCount=0]
+26-01-2018 09:15:35 1516958135829 Metric[gc.unknownTime=0]
+26-01-2018 09:15:35 1516958135829 Metric[operation.callTimeoutCount=0]
+26-01-2018 09:15:35 1516958135829 Metric[operation.completedCount=1516]
+26-01-2018 09:15:35 1516958135829 Metric[operation.failedBackups=0]
+26-01-2018 09:15:35 1516958135829 Metric[operation.invocations.backupTimeouts=0]
+26-01-2018 09:15:35 1516958135829 Metric[operation.invocations.normalTimeouts=0]
+26-01-2018 09:15:35 1516958135829 Metric[operation.invocations.pending=0]
+26-01-2018 09:15:35 1516958135829 Metric[operation.invocations.responses[backup]=0]
+26-01-2018 09:15:35 1516958135829 Metric[operation.invocations.responses[error]=0]
+26-01-2018 09:15:35 1516958135829 Metric[operation.invocations.responses[missing]=0]
+26-01-2018 09:15:35 1516958135829 Metric[operation.invocations.responses[normal]=139]
+26-01-2018 09:15:35 1516958135829 Metric[operation.invocations.responses[timeout]=0]
+26-01-2018 09:15:35 1516958135829 Metric[operation.operationTimeoutCount=0]
+26-01-2018 09:15:35 1516958135829 Metric[operation.priorityQueueSize=0]
+26-01-2018 09:15:35 1516958135829 Metric[operation.queueSize=0]
+26-01-2018 09:15:35 1516958135829 Metric[operation.responseQueueSize=0]
+26-01-2018 09:15:35 1516958135829 Metric[operation.retryCount=0]
+26-01-2018 09:15:35 1516958135829 Metric[os.committedVirtualMemorySize=787308544]
+26-01-2018 09:15:35 1516958135829 Metric[os.freePhysicalMemorySize=22821965824]
+26-01-2018 09:15:35 1516958135829 Metric[os.freeSwapSpaceSize=21272166400]
+26-01-2018 09:15:35 1516958135829 Metric[os.processCpuLoad=0.004521463539342433]
+26-01-2018 09:15:35 1516958135829 Metric[os.processCpuTime=8921875000]
+26-01-2018 09:15:35 1516958135829 Metric[os.systemCpuLoad=0.3034247254246216]
+26-01-2018 09:15:35 1516958135829 Metric[os.systemLoadAverage=-100.0]
+26-01-2018 09:15:35 1516958135829 Metric[os.totalPhysicalMemorySize=34246524928]
+26-01-2018 09:15:35 1516958135829 Metric[os.totalSwapSpaceSize=39346798592]
+26-01-2018 09:15:35 1516958135829 Metric[proxy.createdCount=0]
+26-01-2018 09:15:35 1516958135829 Metric[proxy.destroyedCount=0]
+26-01-2018 09:15:35 1516958135829 Metric[runtime.availableProcessors=4]
+26-01-2018 09:15:35 1516958135829 Metric[runtime.freeMemory=286261888]
+26-01-2018 09:15:35 1516958135829 Metric[runtime.maxMemory=7611613184]
+26-01-2018 09:15:35 1516958135829 Metric[runtime.totalMemory=391643136]
+26-01-2018 09:15:35 1516958135829 Metric[runtime.uptime=62668]
+26-01-2018 09:15:35 1516958135829 Metric[runtime.usedMemory=105381248]
+26-01-2018 09:15:35 1516958135829 Metric[tcp.connection.acceptedSocketCount=0]
+26-01-2018 09:15:35 1516958135829 Metric[tcp.connection.activeCount=3]
+26-01-2018 09:15:35 1516958135829 Metric[tcp.connection.clientCount=2]
+26-01-2018 09:15:35 1516958135829 Metric[tcp.connection.count=1]
+26-01-2018 09:15:35 1516958135829 Metric[tcp.connection.textCount=0]
+26-01-2018 09:15:35 1516958135829 Metric[thread.daemonThreadCount=5]
+26-01-2018 09:15:35 1516958135829 Metric[thread.peakThreadCount=65]
+26-01-2018 09:15:35 1516958135829 Metric[thread.threadCount=65]
+26-01-2018 09:15:35 1516958135829 Metric[thread.totalStartedThreadCount=67]
+26-01-2018 09:15:35 1516958135829 Metric[transactions.commitCount=0]
+26-01-2018 09:15:35 1516958135829 Metric[transactions.rollbackCount=0]
+26-01-2018 09:15:35 1516958135829 Metric[transactions.startCount=0]
+26-01-2018 09:15:35 1516958135864 SlowOperations[]
+26-01-2018 09:15:35 1516958135865 HazelcastInstance[
+                          thisAddress=[192.168.0.3]:5702
+                          isRunning=true
+                          isLite=false
+                          joined=true
+                          nodeState=ACTIVE
+                          clusterId=b5944964-c4a2-453e-b758-8a207e94ba6c
+                          clusterSize=2
+                          isMaster=false
+                          masterAddress=[192.168.0.3]:5701
+                          Members[
+                                  [192.168.0.3]:5701
+                                  [192.168.0.3]:5702]]
+26-01-2018 09:16:35 1516958195829 Metric[classloading.loadedClassesCount=5765]
+26-01-2018 09:16:35 1516958195829 Metric[classloading.totalLoadedClassesCount=5765]
+26-01-2018 09:16:35 1516958195829 Metric[classloading.unloadedClassCount=0]
+26-01-2018 09:16:35 1516958195829 Metric[client.endpoint.count=2]
+26-01-2018 09:16:35 1516958195829 Metric[client.endpoint.totalRegistrations=2]
+26-01-2018 09:16:35 1516958195829 Metric[cluster.clock.clusterTimeDiff=-1]
+26-01-2018 09:16:35 1516958195829 Metric[cluster.clock.maxClusterTimeDiff=-61]
+26-01-2018 09:16:35 1516958195829 Metric[event.eventQueueSize=0]
+26-01-2018 09:16:35 1516958195829 Metric[event.eventsProcessed=23]
+26-01-2018 09:16:35 1516958195829 Metric[executor.[hz:async].queueSize=0]
+26-01-2018 09:16:35 1516958195829 Metric[executor.[hz:client-query].queueSize=0]
+26-01-2018 09:16:35 1516958195829 Metric[executor.[hz:client].queueSize=0]
+26-01-2018 09:16:35 1516958195829 Metric[executor.[hz:cluster:event].queueSize=0]
+26-01-2018 09:16:35 1516958195829 Metric[executor.[hz:cluster].queueSize=0]
+26-01-2018 09:16:35 1516958195829 Metric[executor.[hz:offloadable].queueSize=0]
+26-01-2018 09:16:35 1516958195829 Metric[executor.[hz:scheduled:cqc:5e93747f-a923-46c9-9df8-575bfd8fb75b].queueSize=0]
+26-01-2018 09:16:35 1516958195829 Metric[executor.[hz:scheduled].queueSize=0]
+26-01-2018 09:16:35 1516958195829 Metric[executor.[hz:system].queueSize=0]
+26-01-2018 09:16:35 1516958195829 Metric[file.partition[user.home].freeSpace=289291182080]
+26-01-2018 09:16:35 1516958195829 Metric[file.partition[user.home].totalSpace=511515291648]
+26-01-2018 09:16:35 1516958195829 Metric[file.partition[user.home].usableSpace=289291182080]
+26-01-2018 09:16:35 1516958195829 Metric[gc.majorCount=1]
+26-01-2018 09:16:35 1516958195829 Metric[gc.majorTime=24]
+26-01-2018 09:16:35 1516958195829 Metric[gc.minorCount=2]
+26-01-2018 09:16:35 1516958195829 Metric[gc.minorTime=14]
+26-01-2018 09:16:35 1516958195829 Metric[gc.unknownCount=0]
+26-01-2018 09:16:35 1516958195829 Metric[gc.unknownTime=0]
+26-01-2018 09:16:35 1516958195829 Metric[operation.callTimeoutCount=0]
+26-01-2018 09:16:35 1516958195829 Metric[operation.completedCount=1941]
+26-01-2018 09:16:35 1516958195829 Metric[operation.failedBackups=0]
+26-01-2018 09:16:35 1516958195829 Metric[operation.invocations.backupTimeouts=0]
+26-01-2018 09:16:35 1516958195829 Metric[operation.invocations.normalTimeouts=0]
+26-01-2018 09:16:35 1516958195829 Metric[operation.invocations.pending=0]
+26-01-2018 09:16:35 1516958195829 Metric[operation.invocations.responses[backup]=0]
+26-01-2018 09:16:35 1516958195829 Metric[operation.invocations.responses[error]=0]
+26-01-2018 09:16:35 1516958195829 Metric[operation.invocations.responses[missing]=0]
+26-01-2018 09:16:35 1516958195829 Metric[operation.invocations.responses[normal]=275]
+26-01-2018 09:16:35 1516958195829 Metric[operation.invocations.responses[timeout]=0]
+26-01-2018 09:16:35 1516958195829 Metric[operation.operationTimeoutCount=0]
+26-01-2018 09:16:35 1516958195829 Metric[operation.priorityQueueSize=0]
+26-01-2018 09:16:35 1516958195829 Metric[operation.queueSize=0]
+26-01-2018 09:16:35 1516958195829 Metric[operation.responseQueueSize=0]
+26-01-2018 09:16:35 1516958195829 Metric[operation.retryCount=0]
+26-01-2018 09:16:35 1516958195829 Metric[os.committedVirtualMemorySize=784080896]
+26-01-2018 09:16:35 1516958195829 Metric[os.freePhysicalMemorySize=22893125632]
+26-01-2018 09:16:35 1516958195829 Metric[os.freeSwapSpaceSize=21333778432]
+26-01-2018 09:16:35 1516958195829 Metric[os.processCpuLoad=0.012472468771332911]
+26-01-2018 09:16:35 1516958195829 Metric[os.processCpuTime=10328125000]
+26-01-2018 09:16:35 1516958195829 Metric[os.systemCpuLoad=0.10821798743114996]
+26-01-2018 09:16:35 1516958195829 Metric[os.systemLoadAverage=-100.0]
+26-01-2018 09:16:35 1516958195829 Metric[os.totalPhysicalMemorySize=34246524928]
+26-01-2018 09:16:35 1516958195829 Metric[os.totalSwapSpaceSize=39346798592]
+26-01-2018 09:16:35 1516958195829 Metric[proxy.createdCount=0]
+26-01-2018 09:16:35 1516958195829 Metric[proxy.destroyedCount=0]
+26-01-2018 09:16:35 1516958195829 Metric[runtime.availableProcessors=4]
+26-01-2018 09:16:35 1516958195829 Metric[runtime.freeMemory=281544744]
+26-01-2018 09:16:35 1516958195829 Metric[runtime.maxMemory=7611613184]
+26-01-2018 09:16:35 1516958195829 Metric[runtime.totalMemory=391643136]
+26-01-2018 09:16:35 1516958195829 Metric[runtime.uptime=122671]
+26-01-2018 09:16:35 1516958195829 Metric[runtime.usedMemory=110098392]
+26-01-2018 09:16:35 1516958195829 Metric[tcp.connection.acceptedSocketCount=0]
+26-01-2018 09:16:35 1516958195829 Metric[tcp.connection.activeCount=3]
+26-01-2018 09:16:35 1516958195829 Metric[tcp.connection.clientCount=2]
+26-01-2018 09:16:35 1516958195829 Metric[tcp.connection.count=1]
+26-01-2018 09:16:35 1516958195829 Metric[tcp.connection.textCount=0]
+26-01-2018 09:16:35 1516958195829 Metric[thread.daemonThreadCount=5]
+26-01-2018 09:16:35 1516958195829 Metric[thread.peakThreadCount=65]
+26-01-2018 09:16:35 1516958195829 Metric[thread.threadCount=64]
+26-01-2018 09:16:35 1516958195829 Metric[thread.totalStartedThreadCount=68]
+26-01-2018 09:16:35 1516958195829 Metric[transactions.commitCount=0]
+26-01-2018 09:16:35 1516958195829 Metric[transactions.rollbackCount=0]
+26-01-2018 09:16:35 1516958195829 Metric[transactions.startCount=0]
+26-01-2018 09:16:35 1516958195868 SlowOperations[]
+26-01-2018 09:16:35 1516958195868 HazelcastInstance[
+                          thisAddress=[192.168.0.3]:5702
+                          isRunning=true
+                          isLite=false
+                          joined=true
+                          nodeState=ACTIVE
+                          clusterId=b5944964-c4a2-453e-b758-8a207e94ba6c
+                          clusterSize=2
+                          isMaster=false
+                          masterAddress=[192.168.0.3]:5701
+                          Members[
+                                  [192.168.0.3]:5701
+                                  [192.168.0.3]:5702]]
+26-01-2018 09:17:35 1516958255829 Metric[classloading.loadedClassesCount=5788]
+26-01-2018 09:17:35 1516958255829 Metric[classloading.totalLoadedClassesCount=5788]
+26-01-2018 09:17:35 1516958255829 Metric[classloading.unloadedClassCount=0]
+26-01-2018 09:17:35 1516958255829 Metric[client.endpoint.count=2]
+26-01-2018 09:17:35 1516958255829 Metric[client.endpoint.totalRegistrations=2]
+26-01-2018 09:17:35 1516958255829 Metric[cluster.clock.clusterTimeDiff=-1]
+26-01-2018 09:17:35 1516958255829 Metric[cluster.clock.maxClusterTimeDiff=-61]
+26-01-2018 09:17:35 1516958255829 Metric[event.eventQueueSize=0]
+26-01-2018 09:17:35 1516958255829 Metric[event.eventsProcessed=28]
+26-01-2018 09:17:35 1516958255829 Metric[executor.[hz:async].queueSize=0]
+26-01-2018 09:17:35 1516958255829 Metric[executor.[hz:client-query].queueSize=0]
+26-01-2018 09:17:35 1516958255829 Metric[executor.[hz:client].queueSize=0]
+26-01-2018 09:17:35 1516958255829 Metric[executor.[hz:cluster:event].queueSize=0]
+26-01-2018 09:17:35 1516958255829 Metric[executor.[hz:cluster].queueSize=0]
+26-01-2018 09:17:35 1516958255829 Metric[executor.[hz:offloadable].queueSize=0]
+26-01-2018 09:17:35 1516958255829 Metric[executor.[hz:scheduled:cqc:5e93747f-a923-46c9-9df8-575bfd8fb75b].queueSize=0]
+26-01-2018 09:17:35 1516958255829 Metric[executor.[hz:scheduled].queueSize=0]
+26-01-2018 09:17:35 1516958255829 Metric[executor.[hz:system].queueSize=0]
+26-01-2018 09:17:35 1516958255829 Metric[file.partition[user.home].freeSpace=289290952704]
+26-01-2018 09:17:35 1516958255829 Metric[file.partition[user.home].totalSpace=511515291648]
+26-01-2018 09:17:35 1516958255829 Metric[file.partition[user.home].usableSpace=289290952704]
+26-01-2018 09:17:35 1516958255829 Metric[gc.majorCount=1]
+26-01-2018 09:17:35 1516958255829 Metric[gc.majorTime=24]
+26-01-2018 09:17:35 1516958255829 Metric[gc.minorCount=2]
+26-01-2018 09:17:35 1516958255829 Metric[gc.minorTime=14]
+26-01-2018 09:17:35 1516958255829 Metric[gc.unknownCount=0]
+26-01-2018 09:17:35 1516958255829 Metric[gc.unknownTime=0]
+26-01-2018 09:17:35 1516958255829 Metric[operation.callTimeoutCount=0]
+26-01-2018 09:17:35 1516958255829 Metric[operation.completedCount=2366]
+26-01-2018 09:17:35 1516958255829 Metric[operation.failedBackups=0]
+26-01-2018 09:17:35 1516958255829 Metric[operation.invocations.backupTimeouts=0]
+26-01-2018 09:17:35 1516958255829 Metric[operation.invocations.normalTimeouts=0]
+26-01-2018 09:17:35 1516958255829 Metric[operation.invocations.pending=0]
+26-01-2018 09:17:35 1516958255829 Metric[operation.invocations.responses[backup]=0]
+26-01-2018 09:17:35 1516958255829 Metric[operation.invocations.responses[error]=0]
+26-01-2018 09:17:35 1516958255829 Metric[operation.invocations.responses[missing]=0]
+26-01-2018 09:17:35 1516958255829 Metric[operation.invocations.responses[normal]=411]
+26-01-2018 09:17:35 1516958255829 Metric[operation.invocations.responses[timeout]=0]
+26-01-2018 09:17:35 1516958255829 Metric[operation.operationTimeoutCount=0]
+26-01-2018 09:17:35 1516958255829 Metric[operation.priorityQueueSize=0]
+26-01-2018 09:17:35 1516958255829 Metric[operation.queueSize=0]
+26-01-2018 09:17:35 1516958255829 Metric[operation.responseQueueSize=0]
+26-01-2018 09:17:35 1516958255829 Metric[operation.retryCount=0]
+26-01-2018 09:17:35 1516958255829 Metric[os.committedVirtualMemorySize=784572416]
+26-01-2018 09:17:35 1516958255829 Metric[os.freePhysicalMemorySize=22420062208]
+26-01-2018 09:17:35 1516958255829 Metric[os.freeSwapSpaceSize=20989517824]
+26-01-2018 09:17:35 1516958255829 Metric[os.processCpuLoad=0.03328142732344478]
+26-01-2018 09:17:35 1516958255829 Metric[os.processCpuTime=12187500000]
+26-01-2018 09:17:35 1516958255829 Metric[os.systemCpuLoad=0.09488964113686105]
+26-01-2018 09:17:35 1516958255829 Metric[os.systemLoadAverage=-100.0]
+26-01-2018 09:17:35 1516958255829 Metric[os.totalPhysicalMemorySize=34246524928]
+26-01-2018 09:17:35 1516958255829 Metric[os.totalSwapSpaceSize=39346798592]
+26-01-2018 09:17:35 1516958255829 Metric[proxy.createdCount=0]
+26-01-2018 09:17:35 1516958255829 Metric[proxy.destroyedCount=0]
+26-01-2018 09:17:35 1516958255829 Metric[runtime.availableProcessors=4]
+26-01-2018 09:17:35 1516958255829 Metric[runtime.freeMemory=274799944]
+26-01-2018 09:17:35 1516958255829 Metric[runtime.maxMemory=7611613184]
+26-01-2018 09:17:35 1516958255829 Metric[runtime.totalMemory=391643136]
+26-01-2018 09:17:35 1516958255829 Metric[runtime.uptime=182697]
+26-01-2018 09:17:35 1516958255829 Metric[runtime.usedMemory=116843192]
+26-01-2018 09:17:35 1516958255829 Metric[tcp.connection.acceptedSocketCount=0]
+26-01-2018 09:17:35 1516958255829 Metric[tcp.connection.activeCount=3]
+26-01-2018 09:17:35 1516958255829 Metric[tcp.connection.clientCount=2]
+26-01-2018 09:17:35 1516958255829 Metric[tcp.connection.count=1]
+26-01-2018 09:17:35 1516958255829 Metric[tcp.connection.textCount=0]
+26-01-2018 09:17:35 1516958255829 Metric[thread.daemonThreadCount=6]
+26-01-2018 09:17:35 1516958255829 Metric[thread.peakThreadCount=65]
+26-01-2018 09:17:35 1516958255829 Metric[thread.threadCount=64]
+26-01-2018 09:17:35 1516958255829 Metric[thread.totalStartedThreadCount=69]
+26-01-2018 09:17:35 1516958255829 Metric[transactions.commitCount=0]
+26-01-2018 09:17:35 1516958255829 Metric[transactions.rollbackCount=0]
+26-01-2018 09:17:35 1516958255829 Metric[transactions.startCount=0]
+26-01-2018 09:17:35 1516958255893 SlowOperations[]
+26-01-2018 09:17:35 1516958255893 HazelcastInstance[
+                          thisAddress=[192.168.0.3]:5702
+                          isRunning=true
+                          isLite=false
+                          joined=true
+                          nodeState=ACTIVE
+                          clusterId=b5944964-c4a2-453e-b758-8a207e94ba6c
+                          clusterSize=2
+                          isMaster=false
+                          masterAddress=[192.168.0.3]:5701
+                          Members[
+                                  [192.168.0.3]:5701
+                                  [192.168.0.3]:5702]]
